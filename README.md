@@ -1,6 +1,6 @@
 # Algorytmy-i-struktury-danych
 
-W tym repozytorium znajdują się projekty na przedmiot "Wstęp do Algorytmów i Struktur Danych". Znajdują się tu projekty, które wykonałem w trakcie tego kursu, skupiające się na różnorodnych algorytmach oraz strukturach danych w programowaniu.
+W tym repozytorium znajdują się projekty, które miałem zadane zrobić na kurs "Wstęp do Algorytmów i Struktur Danych" na studiach Inżynieria Systemów na Politechnice Wrocławskiej. Projekty dotyczą różnorodnych algorytmach oraz strukturach danych w programowaniu. 
 
 ## O Projekcie
 
